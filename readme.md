@@ -1,3 +1,8 @@
+Jay Kumar Pal
+Titanic Prediction of Survival based on Age 
+
+
+
 1.The Titanic prediction problem involves predicting whether a passenger on the Titanic survived or not, given various features such as their age, gender, and class. This is a classic binary classification problem.
 
 2.To solve this problem, we can use various machine learning algorithms such as logistic regression, decision trees, random forests, and support vector machines.
